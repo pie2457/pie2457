@@ -1,12 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=항상%20왜를%20생각하는%20개발자%20강예진입니다&fontSize=45&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
-</p>
-
-<p align='center'>
-    <div><p>ㅤㅤㅤㅤㅤㅤㅤㅤ</p></div>
-    <p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&random=false&width=435&color=8A92F7&lines=ㅤㅤㅤ%EC%82%AC%EB%9E%8C%EB%93%A4%EA%B3%BC+%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8A%94+%EA%B2%83%EC%9D%84+%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4;ㅤㅤㅤㅤㅤ%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%ED%95%9C+%EC%84%B1%EC%9E%A5%EC%9D%84+%EA%BF%88%EA%BF%89%EB%8B%88%EB%8B%A4;ㅤㅤㅤㅤ%EA%BE%B8%EC%A4%80%ED%9E%88+%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94+%EA%B2%83%EC%9D%84+%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
-    </p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Pie's%20Github&fontSize=45&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
